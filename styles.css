@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <meta charset="UTF-8">
+    <title>Testando cores</title>
+    <style>
+             p{
+            padding: 12px;
+             }
+                .engenharia {
+                background-color: green;
+
+                color: azure;
+                }
+    </style>
+</head>
+…
